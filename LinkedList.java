@@ -1,3 +1,4 @@
+/* Adding a comment to check whether the code is updated or not in github */
 
 public class LinkedList {
     Node head;
